@@ -1,0 +1,3 @@
+Task:
+-------
+Find out factorial 
